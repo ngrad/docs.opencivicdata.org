@@ -2,7 +2,7 @@ Open Civic Data
 ===============
 
 Welcome
-===============
+-------------
 
 Welcome to the `Open Civic Data Project <https://github.com/opencivicdata/>`_, your home to accessing tools making it easier for governments to share data and for people to engage with their governments.  Our API's are customized yet generic enough that they are able to transcend all levels and nationalities of government for displaying readible and accessible data on:
 
