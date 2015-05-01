@@ -14,8 +14,8 @@ Welcome to the `Open Civic Data Project <https://github.com/opencivicdata/>`_, y
 Aspects of Open Civic Data Project
 ===============
 
-1. _Constraints allow widespread use_ - specifications of how we can store legsilative data in an organized and machine readible way allows you to use this tool uniquely and customizable to the government entity you need to express.
-2. *API's* - with the general scaffolding we have provided a general framework has been created, saving the dread of duplicative work and opens the space for collaboration
+1. Constraints allow widespread use - specifications of how we can store legsilative data in an organized and machine readible way allows you to use this tool uniquely and customizable to the government entity you need to express.
+2. API's - with the general scaffolding we have provided a general framework has been created, saving the dread of duplicative work and opens the space for collaboration
 
 Why Open Civic Data is Important
 ===============
